@@ -1,3 +1,8 @@
+
+.teste{color:#ffffff;}
+
+
+
 .headerInfos > div { border-left:1px solid #d4d4d4; float:left; line-height:30px; height:30px; padding:0 11px; white-space:nowrap;  }
 .headerInfos > div:first-child { border-left:none; }
 .headerInfos > div input[type="text"] { color:#999999; font-size:12px; padding:5px 6px; }
@@ -7,7 +12,6 @@
 
 body {
 font: 14px/23px 'DINbekLight', Helvetica, Arial;
-color: #FFFFFF;
 }
 
 #header .menu { bottom:30px; }
