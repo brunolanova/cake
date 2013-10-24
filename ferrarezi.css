@@ -45,6 +45,7 @@ form.invalid { border:none!important; }
 .sliderLinks li h5 a:hover { color:#000000; }
 
 .directionNav a {
+	top: 0;
 	position          :absolute;
 	top               :45%;
 	z-index           :10;
