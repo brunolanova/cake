@@ -6,10 +6,9 @@
 .headerInfos .socialButtons { padding-top:4px; }
 
 body {
-font: 14px/23px 'DINbekLight', Arial;
+font: 14px/23px 'DINbekLight', Helvetica, Arial;
+color: #FFFFFF;
 }
-
-.menu ul.sf-menu li a { font-size:16px; font-family:'DINbekLight', Arial; }
 
 #header .menu { bottom:30px; }
 
