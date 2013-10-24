@@ -50,7 +50,7 @@ form.invalid { border:none!important; }
 	top               :45%;
 	z-index           :10;
 	cursor            :pointer;
-    display            :block;
+    display           :block;
 	text-indent       :-9999px;
 	width             :21px;
 	height            :21px;
@@ -62,7 +62,7 @@ form.invalid { border:none!important; }
 	top               :45%;
 	z-index           :10;
 	cursor            :pointer;
-    display            :block;
+    display           :block;
 	text-indent       :-9999px;
 	width             :21px;
 	height            :21px;
@@ -98,7 +98,7 @@ position: relative;
 float: left;
 width: 24px;
 height: 19px;
-background        :url(../images/icons/tweet.png)
+background: url(../images/icons/tweet.png);
 }
 
 .divBar{
