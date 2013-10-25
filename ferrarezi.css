@@ -4,7 +4,8 @@
 
 .teste{color:#ffffff;}
 
-
+/*Entendedores Entenderam*/
+.kings .bruninho{ position: absolute; top:0; }
 
 .headerInfos > div { border-left:1px solid #d4d4d4; float:left; line-height:30px; height:30px; padding:0 11px; white-space:nowrap;  }
 .headerInfos > div:first-child { border-left:none; }
